@@ -1,0 +1,1 @@
+A project template I created for my own learning, based on this [[https://atomized.org/blog/2020/07/06/common-lisp-in-practice/][blog post]].
